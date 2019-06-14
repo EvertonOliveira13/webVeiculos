@@ -1,0 +1,45 @@
+html
+{
+	background:white;
+}
+label
+{
+	color: aliceblue;
+	font-size: 20px;
+}
+form
+{
+	padding: 5%;
+	width: 75%;
+	height: auto;
+	margin: auto;
+	border-radius: 2%;
+	background:url(../images/14.png)
+}
+h1
+{
+	color: black;
+	font-size: 36px;
+	text-align: center;
+}
+input, textarea, file
+{
+	border: none;
+	border-radius: 3px;
+	background: linear-gradient(#FFFFFF,#9A9A9A);
+	font-size: 20px;
+}
+td
+{
+	width: 100px;
+	height: 20px;
+}
+a
+{
+	background: linear-gradient(#FFFFFF,#9A9A9A);
+	padding: 8px;
+	list-style: none;
+	text-decoration: none;
+	color: black;
+}
+
